@@ -1,5 +1,5 @@
 # hosam-eid
-for data science cource
+for data science
 
 ##project notes
 
